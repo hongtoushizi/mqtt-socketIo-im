@@ -1,3 +1,4 @@
-./im-server/node_modules/
-npm-debug.log
+im-server/node_modules/
+
+im-server/npm-debug.log
 
