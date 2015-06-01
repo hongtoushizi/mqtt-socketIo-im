@@ -1,0 +1,28 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/bin/npm', 'init' ]
+2 info using npm@2.7.6
+3 info using node@v0.10.37
+4 verbose node symlink /usr/bin/node
+5 silly package data undefined
+6 info init written successfully
+7 verbose type non_object_property_call
+8 verbose stack TypeError: Cannot call method 'join' of undefined
+8 verbose stack     at exports.name (/usr/lib/node_modules/npm/node_modules/init-package-json/default-input.js:51:45)
+8 verbose stack     at PromZard.<anonymous> (/usr/lib/node_modules/npm/node_modules/init-package-json/node_modules/promzard/promzard.js:226:19)
+8 verbose stack     at Interface.onLine (/usr/lib/node_modules/npm/node_modules/read/lib/read.js:111:5)
+8 verbose stack     at Interface.emit (events.js:95:17)
+8 verbose stack     at Interface._onLine (readline.js:203:10)
+8 verbose stack     at Interface._line (readline.js:532:8)
+8 verbose stack     at Interface._ttyWrite (readline.js:761:14)
+8 verbose stack     at ReadStream.onkeypress (readline.js:100:10)
+8 verbose stack     at ReadStream.emit (events.js:98:17)
+8 verbose stack     at emitKey (readline.js:1096:12)
+9 verbose cwd /home/hongshuaiyuan/mygit/IMServer
+10 error Linux 3.16.0-34-generic
+11 error argv "node" "/usr/bin/npm" "init"
+12 error node v0.10.37
+13 error npm  v2.7.6
+14 error Cannot call method 'join' of undefined
+15 error If you need help, you may report this error at:
+15 error     <https://github.com/npm/npm/issues>
+16 verbose exit [ 1, true ]

@@ -1,0 +1,91 @@
+{
+    "[face0]": {
+        "default":"[Surprised]",
+        "en_US": "[Surprised]",
+        "zh_CN": "[吃惊]",
+        "zh_HK":"[吃驚]",
+        "zh_TW":"[吃驚]",
+        "img_src":"chijing.gif"
+    },
+
+    "[face1]": {
+        "default":"[Foolish]",
+        "en_US": "[Foolish]",
+        "zh_CN": "[呆]",
+        "zh_HK":"[呆]",
+        "zh_TW":"[呆]",
+        "img_src":"dai.gif"
+    },
+
+    "[face2]": {
+        "default":"[Sweat]",
+        "en_US": "[Sweat]",
+        "zh_CN": "[汗]",
+        "zh_HK":"[嚇]",
+        "zh_TW":"[嚇]",
+        "img_src":"han.gif"
+    },
+
+    "[face3]": {
+        "default":"[Jiong]",
+        "en_US": "[Jiong]",
+        "zh_CN": "[囧]",
+        "zh_HK":"[囧]",
+        "zh_TW":"[囧]",
+        "img_src":"jiong.gif"
+    },
+
+    "[face4]": {
+        "default":"[Laughter]",
+        "en_US": "[Laughter]",
+        "zh_CN": "[狂笑]",
+        "zh_HK":"[狂笑]",
+        "zh_TW":"[狂笑]",
+        "img_src":"kuangxiao.gif"
+    },
+
+    "[face5]": {
+        "default":"[Tears collapse]",
+        "en_US": "[Tears collapse]",
+        "zh_CN": "[泪崩]",
+        "zh_HK":"[淚崩]",
+        "zh_TW":"[淚崩]",
+        "img_src":"leibeng.gif"
+    },
+
+    "[face6]": {
+        "default":"[Powerful]",
+        "en_US": "[Powerful]",
+        "zh_CN": "[厉害]",
+        "zh_HK":"[厲害]",
+        "zh_TW":"[厲害]",
+        "img_src":"lihai.gif"
+    },
+
+    "[face7]": {
+        "default":"[Decline]",
+        "en_US": "[Decline]",
+        "zh_CN": "[衰]",
+        "zh_HK":"[衰]",
+        "zh_TW":"[衰]",
+        "img_src":"shuai.gif"
+    },
+
+    "[face8]": {
+        "default":"[Naughty]",
+        "en_US": "[Naughty]",
+        "zh_CN": "[调皮]",
+        "zh_HK":"[調皮]",
+        "zh_TW":"[調皮]",
+        "img_src":"tiaopi.gif"
+    },
+
+    "[face9]": {
+        "default":"[Dizzy]",
+        "en_US": "[Dizzy]",
+        "zh_CN": "[晕]",
+        "zh_HK":"[暈]",
+        "zh_TW":"[暈]",
+        "img_src":"yun.gif"
+    }
+}

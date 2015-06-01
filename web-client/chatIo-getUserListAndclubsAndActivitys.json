@@ -1,0 +1,269 @@
+{"friendsList": [
+    {
+        "username": "\u8c22\u5fd7\u660e Simon",
+        "userId": 1,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/c52564bd6f72a3743595f784a05a56dacd59ebdb.png",
+        "isOnline": false
+    },
+    {
+        "username": "Xiangxi.liu",
+        "userId": 4,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/49e8d7840663f515bc62365213c6b0fa19db1b5f.jpg",
+        "isOnline": false
+    },
+    {
+        "username": "dongzhuo",
+        "userId": 6,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/f026b152c68b42b09c40f8d5bf26097f478d2e2e.jpg",
+        "isOnline": false
+    },
+    {
+        "username": "\u7f57\u6979",
+        "userId": 8,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/b7f7147fb17de67ad91d8ec44db9e1c95899d496.png",
+        "isOnline": false
+    },
+    {
+        "username": "gulina",
+        "userId": 9,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/7392975cdc5bb6b09a0c8399139a6fcf30494d59.jpg",
+        "isOnline": false
+    },
+    {
+        "username": "\u9a6c\u9a70",
+        "userId": 12,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/2a9db0a6eea0738ef42f9bd42813325a7701fba3.JPG",
+        "isOnline": false
+    },
+    {
+        "username": "Amy",
+        "userId": 21,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/4c9723c40688f762974487f1cdcef13f59abac0c.jpg",
+        "isOnline": false
+    },
+    {
+        "username": "Shaun Wen",
+        "userId": 39,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/b81038f3c7c19b9941e914cb32290dfdf1f32ce7.gif",
+        "isOnline": false
+    },
+    {
+        "username": "\u5b59\u5927\u94ee",
+        "userId": 41,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/941f160401d6a012ef7ad4db0c2cd88c425eb8c2.jpg",
+        "isOnline": false
+    },
+    {
+        "username": "\u738b\u82b3",
+        "userId": 43,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/2606ff15eb0fb30b533f3e8114d499ae9284744d.jpg",
+        "isOnline": false
+    },
+    {
+        "username": "Audrey",
+        "userId": 60,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/b3c65fc31787d9c590ca5be2813a46899f669462.jpg",
+        "isOnline": false
+    },
+    {
+        "username": "wenbo.zhang",
+        "userId": 79,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/46f411b7dcb0e20e74ec8698dc20bd6cb13e2d86.jpg",
+        "isOnline": false
+    },
+    {
+        "username": "\u5fc3\u65f7\u795e\u6021",
+        "userId": 83,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/fff4e8463a233ca219a9a3e6495884667422bf79.JPG",
+        "isOnline": false
+    },
+    {
+        "username": "qi.li",
+        "userId": 87,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/bc202d25f581b5618fd16b474501daf585451c21.jpg",
+        "isOnline": false
+    },
+    {
+        "username": "guzhixian",
+        "userId": 90,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/8e87f0257ee5125026a3a8678f265fa75fb2524a.jpg",
+        "isOnline": false
+    },
+    {
+        "username": "shuai",
+        "userId": 102,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/no-portrait-male.png",
+        "isOnline": false
+    },
+    {
+        "username": "shouhui.sun",
+        "userId": 155,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/aaee3e12062e22b84af438e2b9d3d4617ff6d7b9.png",
+        "isOnline": false
+    },
+    {
+        "username": "hui.zhi",
+        "userId": 189,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/no-portrait-male.png",
+        "isOnline": false
+    },
+    {
+        "username": "beier.lou",
+        "userId": 190,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/183af82b7b71b2a07111243e971b3ef4ff6ba77f.jpg",
+        "isOnline": false
+    },
+    {
+        "username": "amos.yang",
+        "userId": 318,
+        "userProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/0fb70d23c8e6c4a0f8e84a8b6aa61eb70121bd55.png",
+        "isOnline": false
+    }
+], "clubsList": [
+    {
+        "name": "dq",
+        "kuulabuId": 130,
+        "clubProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/no-image-kuulabu-logo.png"
+    },
+    {
+        "name": "testtest",
+        "kuulabuId": 142,
+        "clubProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/4c1b09a738b2391435a065c4bfd42ad22ea21012.png"
+    },
+    {
+        "name": "\u4e16\u754c\u676f\u4e13\u680f",
+        "kuulabuId": 116,
+        "clubProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/75b42ba72079c86df80e1d072a901697c86f7a36.jpg"
+    },
+    {
+        "name": "KLB Engineers",
+        "kuulabuId": 19,
+        "clubProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/a1463b6f7ad18e46bcc3c1a1446f3dcf0bee19f8.png"
+    },
+    {
+        "name": "\u6e38\u6cf3\u4ff1\u4e50\u90e8",
+        "kuulabuId": 68,
+        "clubProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/1f8b18686dcfbab961631f68f591ada546403512.jpg"
+    },
+    {
+        "name": "\u7f8e\u98df\u7684\u8bf1\u60d1",
+        "kuulabuId": 61,
+        "clubProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/368357513184557f018ac84f14b27bf2fb51f862.jpg"
+    },
+    {
+        "name": "\u516c\u76ca\u6148\u5584\u4ff1\u4e50\u90e8",
+        "kuulabuId": 79,
+        "clubProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/6fbe85aa69c1144956b386b79a1d4d069fc4b100.jpg"
+    },
+    {
+        "name": "test",
+        "kuulabuId": 44,
+        "clubProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/7a2166df4e8a05a4fa2019fb2c4cff1684368920.JPG"
+    },
+    {
+        "name": "\u6d77\u8d3c\u738b",
+        "kuulabuId": 39,
+        "clubProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/604d22eb21464ce42e83b578ea7cc434034f2c48.gif"
+    },
+    {
+        "name": "\u4e00\u8d77\u8dd1\u8d77\u6765",
+        "kuulabuId": 15,
+        "clubProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/a093ade89180c73d97409cbccdbe49cd08ef8a7c.JPG"
+    },
+    {
+        "name": "Insiders",
+        "kuulabuId": 22,
+        "clubProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/35ff379614b7e331dcf1efa4c56fb6ab34690bc6.gif"
+    },
+    {
+        "name": "\u6444\u53cb",
+        "kuulabuId": 18,
+        "clubProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/94ca08196e28486acc85a7459169be1a80f51d1a.jpg"
+    },
+    {
+        "name": "\u5988\u54aa\u5b9d\u8d1d",
+        "kuulabuId": 11,
+        "clubProfilePhotoUrl": "http:\/\/ldev.usr.kuulabu.com\/1e639e24691212bfa1c34d5c0761ed2426e2ab3b.jpg"
+    }
+], "activityList": [
+    {
+        "subject": "Visit Tianjin",
+        "activityId": 187
+    },
+    {
+        "subject": "Visit Tianjin",
+        "activityId": 202
+    },
+    {
+        "subject": "Simon\u5728\u4e0a\u6d77",
+        "activityId": 212
+    },
+    {
+        "subject": "Simon\u5728\u4e0a\u6d77",
+        "activityId": 216
+    },
+    {
+        "subject": "test",
+        "activityId": 256
+    },
+    {
+        "subject": "Android\u754c\u9762\u8bbe\u8ba1\u8fdb\u5ea6\u8ba8\u8bba",
+        "activityId": 426
+    },
+    {
+        "subject": "Simon\u5728\u4e0a\u6d77",
+        "activityId": 468
+    },
+    {
+        "subject": "test",
+        "activityId": 512
+    },
+    {
+        "subject": "test",
+        "activityId": 707
+    },
+    {
+        "subject": "Test Recurrent Alert",
+        "activityId": 827
+    },
+    {
+        "subject": "\u7f57\u6979\u51fa\u5dee \uff0d Business Trip",
+        "activityId": 740
+    },
+    {
+        "subject": "back",
+        "activityId": 765
+    },
+    {
+        "subject": "\u6bcf\u5468\u5199\u5468\u62a5",
+        "activityId": 826
+    },
+    {
+        "subject": "zhongqiu party",
+        "activityId": 791
+    },
+    {
+        "subject": "\u767e\u5927DJ\u97f3\u4e50\u8282--TOP 100 DJS 2014 FESTIVAL",
+        "activityId": 861
+    },
+    {
+        "subject": "\u8857\u4e0a\u901b\u901b\uff0c\u770b\u770b",
+        "activityId": 992
+    },
+    {
+        "subject": "\u6bcf\u5929\u8fdb\u5ea6\u6c47\u62a5",
+        "activityId": 1085
+    },
+    {
+        "subject": "2015\u5e74\u777f\u5e73\u516c\u53f8\u548c\u9177\u4e50\u90e8\u516c\u53f8\u5e74\u591c\u996d",
+        "activityId": 1068
+    },
+    {
+        "subject": "gfd",
+        "activityId": 1345
+    },
+    {
+        "subject": "\u4f11\u5047",
+        "activityId": 1311
+    }
+]}
