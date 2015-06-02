@@ -108,17 +108,17 @@ ChatUI.prototype.domReady = function () {
         }
     }
     host = window.location.host;
-//	  var socket = io.connect('http://180.153.223.89:5000');
-    if (host == 'ldev.www.kuulabu.com/app_dev.php') {
-        var socket = io.connect('http://180.153.223.89:5000');
-        var socket = io.connect('http://kate.b4fter.com:5000');
-
-
-//		  console.log('线上')
-    } else {
-        var socket = io.connect('http://127.0.0.1:5000');
-//		  console.log("线下");
-    }
+//    if (host == 'ldev.www.kuulabu.com/app_dev.php') {
+//        var socket = io.connect('http://180.153.223.89:5000');
+//        var socket = io.connect('http://kate.b4fter.com:5000');
+//
+//
+////		  console.log('线上')
+//    } else {
+//        var socket = io.connect('http://127.0.0.1:5000');
+////		  console.log("线下");
+//    }
+    var socket = io.connect('http://kate.b4fter.com:5000');
 
 //	  var socket = io.connect('http://127.0.0.1:5000');
     var str_cookie = document.cookie;
